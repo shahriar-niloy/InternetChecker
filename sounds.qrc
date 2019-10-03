@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>alert.wav</file>
+        <file>alert.mp3</file>
+    </qresource>
+    <qresource prefix="/Icon">
+        <file>ITCheck.ico</file>
+        <file>Cross.ico</file>
+        <file>Cross.png</file>
+        <file>Minimize.png</file>
+        <file>tray.png</file>
+        <file>up.png</file>
+    </qresource>
+</RCC>
